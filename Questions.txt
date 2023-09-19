@@ -1,0 +1,26 @@
+Times:
+
+10 simulations: 0m0.027s
+100 simulations: 0m0.028s
+1000 simulations: 0m0.035s
+10000 simulations: 0m0.098s
+100000 simulations: 0m0.719s
+1000000 simulations: 0m7.085s
+
+
+
+Questions:
+
+Which predictions, if any, proved incorrect as you increased the number of simulations?:
+
+I would call foloving Number of Simulations: 10 (ten) tournaments; 100 (one hundred) tournaments; 1000 (one thousand) tournaments; 10000 (ten thousand) tournaments incorrect as they were showing and covering not all teams in output results.
+But from another side it will be not right to call them incorrect, because counting right. It's better to say that they are not relevant.
+The first relevant number of simulations in my opinion would be 100000 (one hundred thousand) tournaments, because it will cover all teams in output data and give them at least miserable but chance.
+
+
+
+Suppose you're charged a fee for each second of compute time your program uses.
+After how many simulations would you call the predictions "good enough"?:
+
+In case if you're charged for every second when you're using program, the best Number of Simulations in my opinion would be to use 100000 (one hundred thousand) tournaments number of simulations, because it will cover all teams in output data and it will take the same ammount of time: less then 1 sercond, same to all previouse(lower) Number of Simulations.
+The only one higher number of simulation: 1000000 (one million) tournaments will take  more than 7 Seconds (0m7.085s) and will cost 7 times more than 100000 (one hundred thousand) tournaments but will not give much more improved data.
